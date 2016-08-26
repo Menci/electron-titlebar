@@ -1,0 +1,23 @@
+{
+  "name": "electron-titlebar",
+  "version": "0.0.1",
+  "description": "Cool titlebar for electron apps for every system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Menci/electron-titlebar.git"
+  },
+  "keywords": [
+    "titlebar",
+    "electron"
+  ],
+  "author": "Menci",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Menci/electron-titlebar/issues"
+  },
+  "homepage": "https://github.com/Menci/electron-titlebar#readme"
+}
