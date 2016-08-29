@@ -1,6 +1,6 @@
 {
   "name": "electron-titlebar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cool titlebar for electron apps for every system",
   "main": "index.js",
   "scripts": {
