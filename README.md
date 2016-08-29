@@ -8,7 +8,7 @@ Install with NPM.
 npm install electron-titlebar --save
 ```
 
-Load `electron-titlebar` with `require('electron-titlebar')` in anywhere, or use a `<script>` tag.
+Load `electron-titlebar` with `require('electron-titlebar')` in anywhere.
 
 In HTML, the div whose id is `electron-titlebar` will become a titlebar, like
 
