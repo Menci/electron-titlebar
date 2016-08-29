@@ -68,7 +68,7 @@ function installTitlebar() {
                 if (typeof display !== 'string') display = '';
                 let img = document.createElement('img');
                 img.style.display = display;
-                img.className = 'buttom-img-' + type;
+                img.className = 'button-img-' + type;
 
                 let src;
                 if (platform === 'linux') src = path.resolve(basedir, type + '.svg');
