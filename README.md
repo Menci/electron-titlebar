@@ -68,7 +68,7 @@ Add `platform="linux"` or `platform="win32"` to test the look for a specified pl
 ```
 
 # Licenses
-`electron-titlebar` is licensed under the GPL-3.0 license.
+`electron-titlebar` is licensed under the LGPL-3.0 license.
 
 The directory `LICENSES` contains the licenses that the .SVG files used.
 
