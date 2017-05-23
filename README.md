@@ -1,6 +1,12 @@
 # electron-titlebar
 Cool titlebar for electron apps for every system.
 
+# Screenshots
+#### Windows
+![Windows Screenshot](windows-screen.png)
+#### Linux
+![Linux Screenshot](linux-screen.png)
+
 # Usage
 Install with NPM.
 
