@@ -23,7 +23,7 @@ In HTML, the div whose id is `electron-titlebar` will become a titlebar, like
 ```
 
 ## Drag
-Add class `drag` to make the whole titlebar draggable. This means the user can drag the it to move the window.
+Add class `drag` to make the whole titlebar draggable. This means the user can drag it to move the window.
 
 ```html
 <div id="electron-titlebar" class="drag"></div>
